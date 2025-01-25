@@ -1,7 +1,6 @@
 # Paris to new york 
 
-load("~/air_join/df_new_york.RData")
-df
+load("~/air_join/df_paris-new_york.RData")
 df_agrup <- df[1:154, c("Date","prices")]
 df_agrup$prices  <- substr(df_agrup$prices, 1, nchar(df_agrup$prices) - 2)
 
