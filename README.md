@@ -3,7 +3,7 @@ Automated web scraping system to collect real-time flight prices from various ai
 <p align="center">
   <img src="https://raw.githubusercontent.com/javicarela/air_join/main/plots/Paris_to_new_york.jpeg" width="800">
 </p>
-
+ 
 ## Prerequisites
 
 To run this project, you need to have **Docker** installed on your system. You can follow this guide to install and configure it properly:  
