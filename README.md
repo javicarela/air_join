@@ -5,7 +5,6 @@ Automated web scraping system to collect real-time flight prices from various ai
 </p>
  
 ## Prerequisites
-
 To run this project, you need to have **Docker** installed on your system. You can follow this guide to install and configure it properly:  
 [Getting Started with R and Docker](https://www.appsilon.com/post/r-docker-getting-started)  
 
