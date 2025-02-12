@@ -18,4 +18,4 @@ The following R packages are used in this project:
 - **RSelenium**: Provides an interface to control web browsers via Selenium WebDriver.  
   - Documentation: [https://cran.r-project.org/web/packages/RSelenium/index.html](https://cran.r-project.org/web/packages/RSelenium/index.html)  We are going to use Mozilla containers.
 
-Make sure to install these packages before running the code.  
+Make sure to install these packages before running the code.
