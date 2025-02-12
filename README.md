@@ -19,3 +19,4 @@ The following R packages are used in this project:
   - Documentation: [https://cran.r-project.org/web/packages/RSelenium/index.html](https://cran.r-project.org/web/packages/RSelenium/index.html)  We are going to use Mozilla containers.
 
 Make sure to install these packages before running the code.
+
